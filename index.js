@@ -1,6 +1,7 @@
 // Write your solution in this file!
 var customerName = 'bob'
 var bestCustomer
+const leastFavoriteCustomer = 'dan'
 
 function upperCaseCustomerName() {
   customerName = customerName.toUpperCase();
